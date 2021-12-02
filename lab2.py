@@ -8,7 +8,6 @@ for i in range(2,n+1):
             a = a + 1
     if a != i:
         a = 2
-        continue
     elif a == i:
         a = 2
         print(i)
