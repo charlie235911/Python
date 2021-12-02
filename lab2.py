@@ -10,4 +10,4 @@ for i in range(2,n+1):
         a = 2
     elif a == i:
         a = 2
-        print(i)
+        print(i, end=' ')
